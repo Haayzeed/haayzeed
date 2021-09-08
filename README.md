@@ -2,6 +2,7 @@
 
 -------------------------------------------------------------------------
 
+I'm a Frontend Developer based in Lagos, NG specializing in building exceptional websites, applications, and everything in between.
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haayzeed)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haayzeed&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
