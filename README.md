@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Afeez Dosunmu
+<a href="https://dosunmu.netlify.app">Portfolio</a> <a href="mailto:dosunmuafeez37@gmail.com">Contact Me</a>
 
 -------------------------------------------------------------------------
 
