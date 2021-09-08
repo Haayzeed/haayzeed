@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Afeez Dosunmu
-<a href="https://dosunmu.netlify.app">Portfolio</a> <a href="mailto:dosunmuafeez37@gmail.com">Contact Me</a>
+
 
 -------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Frontend Projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about VueJS, JavaScript, Firebase
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: <a href="mailto:dosunmuafeez37@gmail.com">Here</a>/<a href="https://dosunmu.netlify.app">Portfolio</a>  
 
 <!-- - ⚡ Fun fact: ... -->
 
