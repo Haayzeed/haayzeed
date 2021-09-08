@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Afeez Dosunmu
+### Hi there 👋 I'm Afeez Dosunmu.
 
 
 -------------------------------------------------------------------------
@@ -16,11 +16,11 @@ I'm a Frontend Developer based in Lagos, NG specializing in building exceptional
 
 Here are some ideas to get you started:-->
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on VueJS
-- 🌱 I’m currently learning NuxtJS, Gridsome and JAMstack
-- 👯 I’m looking to collaborate on Frontend Projects
+- 🔭 I’m currently working on VueJS.
+- 🌱 I’m currently learning NuxtJS, Gridsome and JAMstack.
+- 👯 I’m looking to collaborate on Frontend Projects.
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about VueJS, JavaScript, Firebase
+- 💬 Ask me about VueJS, JavaScript and Firebase.
 - 📫 How to reach me: <a href="mailto:dosunmuafeez37@gmail.com">Here</a> / <a href="https://dosunmu.netlify.app">Portfolio</a>  
 
 <!-- - ⚡ Fun fact: ... -->
