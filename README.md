@@ -25,3 +25,6 @@ Here are some ideas to get you started:-->
 
 <!-- - ⚡ Fun fact: ... -->
 
+<a  href="http://github.com/haayzeed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haayzeed&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/haayzeed?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
+
